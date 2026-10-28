@@ -1,0 +1,8 @@
+google-adk[gcp,mcp,tools]>=2.12.0
+fastapi
+google-auth
+google-cloud-bigquery
+google-cloud-kms
+google-genai
+mcp
+requests
